@@ -1,0 +1,1 @@
+![Ngnix-status](./Images/Screenshot%202022-04-13%20114403.png)
